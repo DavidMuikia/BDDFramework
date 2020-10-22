@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="14.926335">
+<testcase classname="As a user I want a login page so that only authentic" name="Valid users should be able to login" time="14.926335">
+<system-out><![CDATA[Given I am on techfios site.................................................passed
+When I enter username and password..........................................passed
+And I click on sign button..................................................passed
+Then Dashboard page should display..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
